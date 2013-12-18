@@ -18,7 +18,7 @@ namespace NetduinoPlusCosmTempHumidity
     {
 
         //cosm/pachube identifying key
-        private static string apiKey = "xLIm6-K3xyMYA89y5j5mR4Ba1FGSAKxldTZqWmpyMm9Xaz0g";
+        private static string apiKey = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
         //my feed
         private static string feedId = "50487";
         //sensor sleep for this amount of ms between posts
